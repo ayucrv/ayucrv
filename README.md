@@ -6,7 +6,6 @@
 ### 🚀 About Me
 - 🎓 B.Tech @ IIT Guwahati (Chemical Engineering, 2023–2027)
 - 🧠 Strong blend of **data analytics, product thinking, and applied ML** 
-- ⚡ I don’t just code — I build products that solve real problems  
 - 📈 From **exploratory analysis → strategy → prototyping**  
 
 ---
