@@ -4,8 +4,8 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech @ IIT Guwahati (Chemical Engineering, 2023–2027) :contentReference[oaicite:0]{index=0}  
-- 🧠 Strong blend of **data analytics, product thinking, and applied ML** :contentReference[oaicite:1]{index=1}  
+- 🎓 B.Tech @ IIT Guwahati (Chemical Engineering, 2023–2027)
+- 🧠 Strong blend of **data analytics, product thinking, and applied ML** 
 - ⚡ I don’t just code — I build products that solve real problems  
 - 📈 From **exploratory analysis → strategy → prototyping**  
 
@@ -53,17 +53,6 @@ Figma | Product Roadmapping | Canva
 - Defined success metrics: conversion, retention, repeat usage  
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayucrv&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayucrv&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayucrv&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-
 
 ### 🤝 Let’s Connect
 - 💼 LinkedIn: https://linkedin.com/in/ayusee-rabha  
