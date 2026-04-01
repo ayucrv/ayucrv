@@ -25,8 +25,7 @@ Figma | Product Roadmapping | Canva
 
 ---
 
-### 📌 Current Focus
-- 🧩 Grinding **DSA (consistently, not “I’ll start tomorrow”)**  
+### 📌 Current Focus 
 - 🤖 Building **AI/ML + product-driven projects**  
 - 🌐 Shipping **real, deployed web apps**  
 - 🎯 Targeting **internships in growth / product / tech**  
