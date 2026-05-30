@@ -48,4 +48,4 @@ AI-powered skincare companion with quiz-based personalization, routine builder, 
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/ayusee-rabha) &nbsp;·&nbsp; [ayuseerabha@gmail.com](mailto:ayuseerabha@gmail.com) &nbsp;·&nbsp; [github.com/ayucrv](https://github.com/ayucrv)
+[LinkedIn](https://www.linkedin.com/in/ayusee-rabha-522921294) &nbsp;·&nbsp; [ayuseerabha@gmail.com](mailto:ayuseerabha@gmail.com) &nbsp;·&nbsp; [github.com/ayucrv](https://github.com/ayucrv)
