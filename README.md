@@ -1,59 +1,51 @@
-<h1 align="center">Hi 👋, I'm Ayusee Rabha</h1>
-<h3 align="center">Aspiring Software Engineer | AI/ML + Product Enthusiast</h3>
+<div align="center">
+
+# Ayusee Rabha
+
+**Chemical Engineering @ IIT Guwahati &nbsp;·&nbsp; AI/ML · Product · Frontend**
+
+</div>
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech @ IIT Guwahati (Chemical Engineering, 2023–2027)
-- 🧠 Strong blend of **data analytics, product thinking, and applied ML** 
-- 📈 From **exploratory analysis → strategy → prototyping**  
+### About
+
+- 🎓 B.Tech, IIT Guwahati (Chemical Engineering, 2023–27)
+- 🧠 Data analytics, applied ML, and product thinking
+- 📈 From exploratory analysis → strategy → shipped product
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:**  
-C++ | Python | SQL | JavaScript | TypeScript  
+### Stack
 
-**Data & ML:**  
-pandas | numpy | scikit-learn | EDA  
+`Python` `TypeScript` `JavaScript` `SQL` `C++`
 
-**Web & Tools:**  
-HTML | CSS | Git | GitHub | Vercel  
-
-**Product & Design:**  
-Figma | Product Roadmapping | Canva  
+**Data & ML** — pandas · numpy · scikit-learn · EDA  
+**Web & tools** — React · HTML/CSS · Git · Vercel  
+**Product & design** — Figma · Roadmapping · Canva
 
 ---
 
-### 📌 Current Focus 
-- 🤖 Building **AI/ML + product-driven projects**  
-- 🌐 Shipping **real, deployed web apps**  
-- 🎯 Targeting **internships in growth / product / tech**  
+### Currently
+
+- 🤖 Building AI/ML-integrated product projects  
+- 🌐 Shipping deployed web apps  
 
 ---
 
-### 💻 Featured Projects
+### Projects
 
-#### 💰 MoneyQuest — Gamified Financial Simulator  
-- Built a **fintech + edtech web app** with real-time financial projections  
-- Created *MoneyMirror Engine* (1-month to 5-year simulations)  
-- Designed gamified system (XP, badges, levels)  
-- Interactive dashboard with analytics-style UI  
+**[MoneyQuest](https://github.com/ayucrv)** &nbsp;·&nbsp; *fintech · edtech*  
+Gamified financial simulator with 1-month to 5-year projections, XP/badge system, and analytics-style dashboard. Built frontend-only in HTML/CSS/TypeScript.
 
-#### 🛍️ EcoShop — Product Strategy & Gen Z Engagement  
-- Conducted **50+ user research responses** + UX audit  
-- Built **product roadmap + GTM strategy (DAU/MAU, retention)**  
-- Designed full prototype (Figma) + scalable architecture  
+**EcoShop** &nbsp;·&nbsp; *product strategy*  
+50+ user research responses, UX audit, GTM strategy with DAU/MAU retention framework, and full Figma prototype.
 
-#### 💄 Plum Digital — AI Skincare Companion  
-- Designed **AI-powered personalized skincare flow**  
-- Built quiz-based recommendation + routine builder  
-- Defined success metrics: conversion, retention, repeat usage  
+**Plum Digital** &nbsp;·&nbsp; *AI product · skincare*  
+AI-powered skincare companion with quiz-based personalization, routine builder, and defined success metrics.
 
 ---
 
-### 🤝 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/ayusee-rabha  
-- 📧 Email: ayuseerabha@gmail.com  
+### Connect
 
----
+[LinkedIn](https://linkedin.com/in/ayusee-rabha) &nbsp;·&nbsp; [ayuseerabha@gmail.com](mailto:ayuseerabha@gmail.com) &nbsp;·&nbsp; [github.com/ayucrv](https://github.com/ayucrv)
