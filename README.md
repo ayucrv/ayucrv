@@ -6,7 +6,6 @@
 
 Building AI-powered products with an engineering-first approach — combining data science, modern web technologies, and product thinking to turn complex problems into reliable, user-focused solutions. From data pipelines and machine learning models to scalable APIs and polished interfaces, I enjoy building products end-to-end.
 
-![line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
@@ -48,7 +47,7 @@ Current focus: Full-stack AI products, RAG systems, real-time dashboards, and th
 ![Vector Search](https://img.shields.io/badge/Vector_Search-000000?style=for-the-badge&labelColor=8B0000&color=000000)
 ![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-000000?style=for-the-badge&labelColor=8B0000&color=000000)
 
-* **RAG Systems** — semantic chunking (LangChain, LlamaParse), vector embeddings, context retrieval, prompt augmentation, retrieval evaluation
+* **RAG Systems** — semantic chunking (LangChain), vector embeddings, context retrieval, prompt augmentation, retrieval evaluation
 * **Vector & Search** — ChromaDB, embeddings (Sentence-Transformers, all-MiniLM, MPNet), vector indexing, cosine similarity search, semantic search, hybrid search
 * **LLM Orchestration** — API integration (Claude, Groq, OpenAI), streaming responses, cost optimization, token counting, context window management
 
@@ -60,12 +59,12 @@ Current focus: Full-stack AI products, RAG systems, real-time dashboards, and th
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=8B0000&labelColor=000000)
 
 * **Frameworks & Core** — React 18, Next.js 14 (App Router, SSR, ISR), TypeScript, React Hooks, Context API, custom hooks
-* **Styling & Design** — TailwindCSS, custom design systems, CSS variables, responsive design, dark mode, accessibility (a11y)
+* **Styling & Design** — TailwindCSS, custom design systems, CSS variables, responsive design,
 * **Animation & Interaction** — Framer Motion, GSAP, Lenis, parallax
 * **Component Libraries** — Lucide React (icons), shadcn/ui patterns
-* **Data Visualization** — Recharts, Plotly.js, D3.js basics, real-time dashboards, animated charts
-* **Deployment & Hosting** — Vercel, GitHub Pages, environment variables, deployment pipelines
-* **State Management** — React Hooks, Context API
+* **Data Visualization** — Recharts, Plotly.js, D3.js basics
+* **Deployment & Hosting** — Vercel, GitHub
+* **State Management** — React Hooks
 
 ### Backend & Infrastructure
 
@@ -76,8 +75,8 @@ Current focus: Full-stack AI products, RAG systems, real-time dashboards, and th
 
 * **Frameworks & APIs** — FastAPI, Express.js
 * **Databases** — PostgreSQL (queries, indexing, optimization), SQLite, MongoDB
-* **ORMs & Query Builders** — SQLAlchemy, Pydantic (data validation), SQL optimization, connection pooling
-* **Authentication & Security** — JWT tokens, environment variables, CORS, API rate limiting, input validation
+* **ORMs & Query Builders** — SQLAlchemy, Pydantic (data validation), SQL optimization
+* **Authentication & Security** — JWT tokens, environment variables, CORS
 * **Infrastructure & Deployment** — Hugging Face Spaces (Docker, free tier)
 * **Data Processing** — ETL pipelines, batch processing, data cleaning, Apache Spark (basics)
 * **Testing & Monitoring** — error handling, logging, debugging strategies
@@ -105,35 +104,7 @@ Current focus: Full-stack AI products, RAG systems, real-time dashboards, and th
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=3&section=header)
 
-</div>
 
-## Featured Project — RedditPulse AI
-
-An AI-powered sentiment and discussion analysis dashboard that turns raw Reddit threads into structured, decision-ready insight: community pulse, consensus, advice, keywords, red flags, and a constructive takeaway — all generated from a single discussion input.
-
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=8B0000&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=8B0000&labelColor=000000)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=8B0000&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=8B0000&labelColor=000000)
-![NLTK](https://img.shields.io/badge/NLTK-000000?style=flat-square&labelColor=8B0000&color=000000)
-![VADER](https://img.shields.io/badge/VADER_Sentiment-000000?style=flat-square&labelColor=8B0000&color=000000)
-![Gemini](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=googlegemini&logoColor=8B0000&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=8B0000&labelColor=000000)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face_Spaces-000000?style=flat-square&logo=huggingface&logoColor=8B0000&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=8B0000&labelColor=000000)
-
-**How it works:** a React + TypeScript (Vite) frontend sends a discussion to a FastAPI backend, which runs it through an NLTK preprocessing pipeline, scores it with VADER sentiment, and passes it to the Gemini API for structured reasoning — returning a validated JSON payload (Pydantic response models) that renders as an interactive dashboard.
-
-**Architecture:** frontend deployed on Vercel, backend containerized with Docker and deployed on Hugging Face Spaces, with the two kept in separate repositories (GitHub for frontend, Hugging Face for backend) after resolving an earlier submodule nesting issue.
-
-`[ Live Demo ]` · `[ Backend API Docs ]` · `[ GitHub Repo ]`
-*(add your links here once finalized)*
-
-<div align="center">
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=3&section=header)
-
-</div>
 
 ## Connect
 
